@@ -33,7 +33,10 @@ namespace CompanyEmployees
         {
             services.ConfigureCors();
             services.ConfigureIISIntegration();
+            services.AddControllers();
+            services.ConfigureSqlContext(Configuration);
             services.ConfigureLoggerService();
+            services.ConfigureRepositoryManager();
             services.AddControllers();
         }
 
