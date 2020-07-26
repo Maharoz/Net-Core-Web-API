@@ -6,4 +6,7 @@ F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.Assembly
 F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
 F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+F:\Angular-Projects\CoreAPI\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+F:\Angular-Projects\CoreAPI\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
 F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+F:\Angular-Projects\CoreAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete

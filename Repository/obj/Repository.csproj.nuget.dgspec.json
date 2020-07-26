@@ -31,7 +31,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\Angular-Projects\\CoreAPI\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Angular-Projects\\CoreAPI\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -88,11 +92,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {
-              "F:\\Angular-Projects\\CoreAPI\\Contracts\\Contracts.csproj": {
-                "projectPath": "F:\\Angular-Projects\\CoreAPI\\Contracts\\Contracts.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -158,9 +158,6 @@
             "projectReferences": {
               "F:\\Angular-Projects\\CoreAPI\\Contracts\\Contracts.csproj": {
                 "projectPath": "F:\\Angular-Projects\\CoreAPI\\Contracts\\Contracts.csproj"
-              },
-              "F:\\Angular-Projects\\CoreAPI\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\Angular-Projects\\CoreAPI\\Entities\\Entities.csproj"
               }
             }
           }

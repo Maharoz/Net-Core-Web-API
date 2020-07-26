@@ -7,3 +7,8 @@ F:\Angular-Projects\CoreAPI\Repository\obj\Debug\netcoreapp3.1\Repository.Assemb
 F:\Angular-Projects\CoreAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
 F:\Angular-Projects\CoreAPI\Repository\obj\Debug\netcoreapp3.1\Repository.dll
 F:\Angular-Projects\CoreAPI\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+F:\Angular-Projects\CoreAPI\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+F:\Angular-Projects\CoreAPI\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+F:\Angular-Projects\CoreAPI\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\Angular-Projects\CoreAPI\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\Angular-Projects\CoreAPI\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete

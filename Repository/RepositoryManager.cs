@@ -12,6 +12,11 @@ namespace Repository
         private ICompanyRepository _companyRepository;
         private IEmployeeRepository _employeeRepository;
 
+        public RepositoryManager(RepositoryContext repositoryContext)
+        {
+            _repositoryContext = repositoryContext;
+        }
+
         public ICompanyRepository Company {
             get
             {

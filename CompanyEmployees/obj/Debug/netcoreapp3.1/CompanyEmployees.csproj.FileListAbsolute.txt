@@ -37,8 +37,6 @@ F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Contracts.p
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csprojAssemblyReference.cache
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfoInputs.cache
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfo.cs
-F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
-F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.RazorTargetAssemblyInfo.cache
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CopyComplete
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\staticwebassets\CompanyEmployees.StaticWebAssets.Manifest.cache
@@ -82,3 +80,9 @@ F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\runtimes\wi
 F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\libman.json
 F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.dll
+F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
+F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
