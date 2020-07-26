@@ -4,6 +4,6 @@ F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAsse
 F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
 F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
 F:\Angular-Projects\CoreAPI\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
-F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+F:\Angular-Projects\CoreAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache

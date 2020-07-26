@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UcSMDumCt8Xz9H0xXOlPE9l0P2hqgLxntW0BLFnRXwiec2v5HXeNVzU9U6bUE2NT6OWHde9Ksg+yqZRt5eXakw==",
+  "dgSpecHash": "odvhSACQMSDBj1LPA+QkfVgFyqhmnBOS1RD0890bOAYvBvNuAje7gMoimgqWm5DD2ULvqWKUKyhicia1eXxm+A==",
   "success": true,
   "projectFilePath": "F:\\Angular-Projects\\CoreAPI\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\nlog.extensions.logging\\1.6.4\\nlog.extensions.logging.1.6.4.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",

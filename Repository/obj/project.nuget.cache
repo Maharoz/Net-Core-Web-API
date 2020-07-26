@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8oGxXpTGsrTwb+NTTVAxrLRLCzAqr6qusBSXVnBtEdqF8eU8zXafa9fx164Wq6e06sqZ35nU4psLQr0BUgdxyA==",
+  "dgSpecHash": "ecMfGa8FKD4Mfhcg4n5CqYCXtJ4XujYtAqJn9kEcc4ZJwp8NiH7f0dx0mLJGkPMqgFMwAe0ZeKQtEa66GdjAQg==",
   "success": true,
   "projectFilePath": "F:\\Angular-Projects\\CoreAPI\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
