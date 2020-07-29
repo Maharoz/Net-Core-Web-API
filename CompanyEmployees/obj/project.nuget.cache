@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HyuCc3Qx8tRu88TX9tnUMwKWQjXsJVwjRp/PrO3sHBIeqEWBVvo1Qx+843DJhlNNv/8GZcQbU4jdbxrz+rDAsA==",
+  "dgSpecHash": "Qo2az8MUjQr/2JBaym7LkEJ0F9BBPpp3K1nYQSIqL0h+59QlRhkU7UhOUyZLGEi57eWzHZ4T9fT7A1vou/0ClA==",
   "success": true,
   "projectFilePath": "F:\\Angular-Projects\\CoreAPI\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.6\\microsoft.aspnetcore.jsonpatch.3.1.6.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.6\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.6.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -33,6 +35,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\nlog.extensions.logging\\1.6.4\\nlog.extensions.logging.1.6.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
