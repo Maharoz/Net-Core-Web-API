@@ -3,6 +3,7 @@ using Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Repository
 {
@@ -41,7 +42,7 @@ namespace Repository
                 return _employeeRepository;
             }
         }
-        public void Save() => _repositoryContext.SaveChanges();
+        public Task SaveAsync() =>  _repositoryContext.SaveChangesAsync();
         
     }
 }
