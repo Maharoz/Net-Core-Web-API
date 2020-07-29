@@ -63,6 +63,11 @@ namespace CompanyEmployees.Controllers
                 _logger.LogError("CreateForCreationDto object sent from client is null");
                 return BadRequest("CreateForCreationDto object is null");
             }
+            if (!ModelState.IsValid)
+            {
+                _logger.LogError("Invalid model state for the CompanyForCreationDto object");
+                return UnprocessableEntity(ModelState);
+            }
             var companyEntity = _mapper.Map<Company>(company);
             _repository.Company.CreateCompany(companyEntity);
             _repository.Save();
