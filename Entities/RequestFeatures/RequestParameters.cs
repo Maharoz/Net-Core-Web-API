@@ -19,6 +19,7 @@ namespace Entities.RequestFeatures
             }
         }
         public string OrderBy { get; set; }
+        public string Fields { get; set; }
     }
     public class EmployeeParameters : RequestParameters {
         public EmployeeParameters()
