@@ -60,6 +60,7 @@ namespace Repository.DataShaping
                 var objectPropertyValue = property.GetValue(entity);
                 shapedObject.TryAdd(property.Name, objectPropertyValue);
             }
+            
             return shapedObject;
         }
     }
