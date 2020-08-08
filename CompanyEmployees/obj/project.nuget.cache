@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Qo2az8MUjQr/2JBaym7LkEJ0F9BBPpp3K1nYQSIqL0h+59QlRhkU7UhOUyZLGEi57eWzHZ4T9fT7A1vou/0ClA==",
+  "dgSpecHash": "giSLGP4Zk4DzwIyTfCxeu1M8TNPzxlY+1r8bc4LgrgCEhPASHMP6pyoEzf5uByENEzidomkxp1RRV4YoDPuVGw==",
   "success": true,
   "projectFilePath": "F:\\Angular-Projects\\CoreAPI\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.linq.dynamic.core\\1.2.1\\system.linq.dynamic.core.1.2.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",

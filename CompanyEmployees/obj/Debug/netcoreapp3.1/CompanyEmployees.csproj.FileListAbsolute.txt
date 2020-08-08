@@ -90,3 +90,4 @@ F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.A
 F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
 F:\Angular-Projects\CoreAPI\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular-Projects\CoreAPI\CompanyEmployees\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll

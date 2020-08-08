@@ -962,6 +962,17 @@
           "System.Runtime.Extensions": "4.3.0"
         }
       },
+      "System.Linq.Dynamic.Core/1.2.1": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {}
+        }
+      },
       "System.Net.NameResolution/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0",
@@ -1359,7 +1370,8 @@
       },
       "Repository/1.0.0": {
         "dependencies": {
-          "Contracts": "1.0.0"
+          "Contracts": "1.0.0",
+          "System.Linq.Dynamic.Core": "1.2.1"
         },
         "runtime": {
           "Repository.dll": {}
@@ -3402,6 +3414,13 @@
       "sha512": "sha512-5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
       "path": "system.linq/4.3.0",
       "hashPath": "system.linq.4.3.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F/ywfm0s3LDO2pC30XEzLMfgR3F8w2jq7/kXG6mNwtd6BQlnQOk01nxaD/oLUuKLRowkm4Xt6q6oFd9ZnJ9ovQ==",
+      "path": "system.linq.dynamic.core/1.2.1",
+      "hashPath": "system.linq.dynamic.core.1.2.1.nupkg.sha512"
     },
     "System.Net.NameResolution/4.3.0": {
       "type": "package",
