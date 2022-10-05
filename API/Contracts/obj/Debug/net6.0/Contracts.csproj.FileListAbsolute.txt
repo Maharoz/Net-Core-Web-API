@@ -1,0 +1,12 @@
+H:\Net-Core-Web-API\API\Contracts\bin\Debug\net6.0\Contracts.deps.json
+H:\Net-Core-Web-API\API\Contracts\bin\Debug\net6.0\Contracts.dll
+H:\Net-Core-Web-API\API\Contracts\bin\Debug\net6.0\Contracts.pdb
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.dll
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\Contracts.pdb
+H:\Net-Core-Web-API\API\Contracts\obj\Debug\net6.0\ref\Contracts.dll
