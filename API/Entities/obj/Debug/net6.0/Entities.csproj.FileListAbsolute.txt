@@ -1,0 +1,12 @@
+H:\Net-Core-Web-API\API\Entities\bin\Debug\net6.0\Entities.deps.json
+H:\Net-Core-Web-API\API\Entities\bin\Debug\net6.0\Entities.dll
+H:\Net-Core-Web-API\API\Entities\bin\Debug\net6.0\Entities.pdb
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.dll
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\refint\Entities.dll
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\Entities.pdb
+H:\Net-Core-Web-API\API\Entities\obj\Debug\net6.0\ref\Entities.dll

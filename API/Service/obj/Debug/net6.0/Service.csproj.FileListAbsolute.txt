@@ -1,0 +1,17 @@
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Service.deps.json
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Service.dll
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Service.pdb
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Contracts.dll
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Service.Contracts.dll
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Contracts.pdb
+H:\Net-Core-Web-API\API\Service\bin\Debug\net6.0\Service.Contracts.pdb
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.dll
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\refint\Service.dll
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\Service.pdb
+H:\Net-Core-Web-API\API\Service\obj\Debug\net6.0\ref\Service.dll
