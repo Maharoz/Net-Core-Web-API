@@ -1,3 +1,4 @@
+using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
 using System.Configuration;
@@ -19,12 +20,12 @@ builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-    app.UseDeveloperExceptionPage();
-else
-    app.UseHsts();
+var logger = app.Services.GetRequiredService<ILoggerManager>();
+app.ConfigureExceptionHandler(logger); 
 
-app.UseHttpsRedirection();
+if (app.Environment.IsProduction())
+    app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 app.UseForwardedHeaders(new ForwardedHeadersOptions
 {
