@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YUIBXOSM2PnG2zcVwnu1R8msQIblUObXcJaTm1oZLOxSd0K75MbjmaxgihlXOx5oQGujDyuavbhiDOlwRs/lpA==",
+  "dgSpecHash": "B/nzkI9ZM0og9SXlVEF5LXqVwsOcIgdFYA2h3EAQrbLHU/DkHmn4KRmBdM7FwkWZ2x9qVGKQngF8Qyyb0/SzqQ==",
   "success": true,
   "projectFilePath": "H:\\Net-Core-Web-API\\API\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [

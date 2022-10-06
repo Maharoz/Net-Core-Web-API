@@ -1,0 +1,17 @@
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\API.Presentation.deps.json
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\API.Presentation.dll
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\API.Presentation.pdb
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.csproj.AssemblyReference.cache
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.AssemblyInfoInputs.cache
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.AssemblyInfo.cs
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.csproj.CoreCompileInputs.cache
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.csproj.CopyComplete
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.dll
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\refint\API.Presentation.dll
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\API.Presentation.pdb
+H:\Net-Core-Web-API\API\API.Presentation\obj\Debug\net6.0\ref\API.Presentation.dll
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\Shared.dll
+H:\Net-Core-Web-API\API\API.Presentation\bin\Debug\net6.0\Shared.pdb

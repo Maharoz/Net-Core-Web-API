@@ -38,7 +38,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "H:\\Net-Core-Web-API\\API\\Entities\\Entities.csproj": {
+                "projectPath": "H:\\Net-Core-Web-API\\API\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

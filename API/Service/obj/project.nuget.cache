@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "k8JT+2k8LrMr0gVBzYWMhMl+2pEuKpXg4GeeSvrsWJ5X8oD1ISoIHDDOeZHIgEKW3YzaG+NqRlEu49khY3CN+A==",
+  "dgSpecHash": "OO67N7Yp+Zxa/sImJx5AHr43Jc6xylM1PJTU68MZJjp86Trcj6pe/FmqYGQUwyKxAvLZH8t5CEzCuguMfNcz1Q==",
   "success": true,
   "projectFilePath": "H:\\Net-Core-Web-API\\API\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CEL\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

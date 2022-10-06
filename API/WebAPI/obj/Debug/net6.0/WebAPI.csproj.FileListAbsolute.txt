@@ -21,7 +21,6 @@ H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorCon
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
-H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
@@ -83,3 +82,13 @@ H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Service.Contracts.dll
 H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Service.dll
 H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Service.pdb
 H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Service.Contracts.pdb
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\API.Presentation.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\API.Presentation.pdb
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Shared.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Shared.pdb
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
