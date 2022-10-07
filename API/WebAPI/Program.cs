@@ -1,5 +1,6 @@
 using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
+using Microsoft.AspNetCore.Mvc;
 using NLog;
 using System.Configuration;
 using WebAPI.Extension;
@@ -15,12 +16,16 @@ builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureSqlContext(builder.Configuration);
 
-builder.Services.AddControllers(config =>
+//builder.Services.AddControllers(config =>
+//{
+//    config.RespectBrowserAcceptHeader = true;
+//    config.ReturnHttpNotAcceptable = true;
+//})
+//    .AddXmlDataContractSerializerFormatters().AddCustomCSVFormatter();
+builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
-    config.RespectBrowserAcceptHeader = true;
-    config.ReturnHttpNotAcceptable = true;
-})
-    .AddXmlDataContractSerializerFormatters().AddCustomCSVFormatter();
+    options.SuppressModelStateInvalidFilter = true; 
+});
 builder.Services.AddControllers().AddApplicationPart(typeof(API.Presentation.AssemblyRefrence).Assembly); ;
 builder.Services.AddAutoMapper(typeof(Program));
 
