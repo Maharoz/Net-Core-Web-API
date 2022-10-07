@@ -13,3 +13,5 @@ H:\Net-Core-Web-API\API\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts
 H:\Net-Core-Web-API\API\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
 H:\Net-Core-Web-API\API\Service.Contracts\bin\Debug\net6.0\Shared.dll
 H:\Net-Core-Web-API\API\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+H:\Net-Core-Web-API\API\Service.Contracts\bin\Debug\net6.0\Entities.dll
+H:\Net-Core-Web-API\API\Service.Contracts\bin\Debug\net6.0\Entities.pdb

@@ -92,3 +92,6 @@ H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Shared.pdb
 H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\AutoMapper.dll
 H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 H:\Net-Core-Web-API\API\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\Net-Core-Web-API\API\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
