@@ -17,3 +17,5 @@ H:\Net-Core-Web-API\API\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.
 H:\Net-Core-Web-API\API\Repository\obj\Debug\net6.0\ref\Repository.dll
 H:\Net-Core-Web-API\API\Repository\bin\Debug\net6.0\Contracts.dll
 H:\Net-Core-Web-API\API\Repository\bin\Debug\net6.0\Contracts.pdb
+H:\Net-Core-Web-API\API\Repository\bin\Debug\net6.0\Shared.dll
+H:\Net-Core-Web-API\API\Repository\bin\Debug\net6.0\Shared.pdb

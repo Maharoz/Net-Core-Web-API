@@ -121,6 +121,9 @@
             "projectReferences": {
               "H:\\Net-Core-Web-API\\API\\Entities\\Entities.csproj": {
                 "projectPath": "H:\\Net-Core-Web-API\\API\\Entities\\Entities.csproj"
+              },
+              "H:\\Net-Core-Web-API\\API\\Shared\\Shared.csproj": {
+                "projectPath": "H:\\Net-Core-Web-API\\API\\Shared\\Shared.csproj"
               }
             }
           }

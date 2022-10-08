@@ -15,3 +15,5 @@ H:\Net-Core-Web-API\API\LoggerService\obj\Debug\net6.0\LoggerService.pdb
 H:\Net-Core-Web-API\API\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
 H:\Net-Core-Web-API\API\LoggerService\bin\Debug\net6.0\Entities.dll
 H:\Net-Core-Web-API\API\LoggerService\bin\Debug\net6.0\Entities.pdb
+H:\Net-Core-Web-API\API\LoggerService\bin\Debug\net6.0\Shared.dll
+H:\Net-Core-Web-API\API\LoggerService\bin\Debug\net6.0\Shared.pdb
