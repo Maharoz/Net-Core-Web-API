@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uap7hh7xxQlTjkRP1cyN+hY7cO/zzpj05t65M/J+5rY5o+fMnmkxaNphip7EFKpGV6g72+RmC+z3cwGRFJjDew==",
+  "dgSpecHash": "saJhDCAScRKuCUS4k40b3Qg33O+J7fYTNZ/YvBbdre5udzA8IvXyOnh4mv25WuC1h+pz3ZZHQY2VeafosCFmlg==",
   "success": true,
   "projectFilePath": "H:\\Net-Core-Web-API\\API\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -94,6 +94,7 @@
     "C:\\Users\\CEL\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\CEL\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\CEL\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\CEL\\.nuget\\packages\\system.linq.dynamic.core\\1.2.20\\system.linq.dynamic.core.1.2.20.nupkg.sha512",
     "C:\\Users\\CEL\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\CEL\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\CEL\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
