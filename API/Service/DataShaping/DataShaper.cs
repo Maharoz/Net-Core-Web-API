@@ -20,7 +20,8 @@ namespace Service.DataShaping
             var requiredProperties = GetRequiredProperties(fieldsString); return FetchData(entities, requiredProperties);
         }
         public ExpandoObject ShapeData(T entity, string fieldsString) {
-            var requiredProperties = GetRequiredProperties(fieldsString); return FetchDataForEntity(entity, requiredProperties);
+            var requiredProperties = GetRequiredProperties(fieldsString); 
+            return FetchDataForEntity(entity, requiredProperties);
         }
         private IEnumerable<PropertyInfo> GetRequiredProperties(string fieldsString) {
             var requiredProperties = new List<PropertyInfo>(); 
