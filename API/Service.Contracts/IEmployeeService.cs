@@ -3,6 +3,7 @@ using Shared.DataTransferObject;
 using Shared.RequestFeature;
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,7 +12,7 @@ namespace Service.Contracts
 {
     public interface IEmployeeService
     {
-        Task<(IEnumerable<EmployeeDto> employees, MetaData metaData)> GetEmployeesAsync(Guid companyId, EmployeeParameters employeeParameters, bool trackChanges);
+      //  Task<(IEnumerable<EmployeeDto> employees, MetaData metaData)> GetEmployeesAsync(Guid companyId, EmployeeParameters employeeParameters, bool trackChanges);
         Task<EmployeeDto> GetEmployeeAsync(Guid companyId, Guid id, bool trackChanges);
         Task<EmployeeDto> CreateEmployeeForCompanyAsync(Guid companyId,
             EmployeeForCreationDto employeeForCreation, bool trackChanges);
@@ -21,5 +22,6 @@ namespace Service.Contracts
         Task<(EmployeeForUpdateDto employeeToPatch, Employee employeeEntity)> GetEmployeeForPatchAsync(
             Guid companyId, Guid id, bool compTrackChanges, bool empTrackChanges);
         Task SaveChangesForPatchAsync(EmployeeForUpdateDto employeeToPatch, Employee employeeEntity);
+        Task<(IEnumerable<ExpandoObject> employees, MetaData metaData)> GetEmployeesAsync(Guid companyId, EmployeeParameters employeeParameters, bool trackChanges);
     }
 }
